@@ -1,6 +1,6 @@
 [project]
 name = "simple-ignore-match"
-version = "0.1.0"
+version = "0.1.1"
 description = "Check whether a path matches gitignore-style patterns, honoring last-match-wins order."
 requires-python = ">=3.10"
 dependencies = []
